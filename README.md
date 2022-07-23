@@ -1,7 +1,3 @@
-# NFT Marketplace
-
-https://user-images.githubusercontent.com/55044734/164286035-e01e106b-6595-4665-b0b8-7c97334c7f6e.mp4
-
 ### Marketplace features :bulb:
 
 - [x] Mint & List Nft.
